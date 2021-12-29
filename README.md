@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
 <!--
 **pkamleshkumar12/pkamleshkumar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
