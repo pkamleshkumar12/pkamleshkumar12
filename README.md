@@ -1,19 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Kamlesh Kumar! 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamleshkumar12&theme=blue-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pkamleshkumar12&show_icons=true)
-<img src="https://komarev.com/ghpvc/?username=pkamleshkumar12"/>
-<!--
-**pkamleshkumar12/pkamleshkumar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned software professional with expertise in Java, Microservices, and Systems Integration. Currently, I work as a Solutions Designer at Lenovo PCCW, where I bridge the gap between complex business requirements and technical solutions. 
 
-Here are some ideas to get you started:
+## 🔧 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Framework
+- Microservices
+- API Design
+- Systems Integration
+
+## 🌱 What I'm Up To
+
+- Designing innovative solutions
+- Conducting Impact Assessments
+- Developing Proof of Concepts
+- Exploring new technologies
+
+## 💬 Let's Connect
+
+- LinkedIn: [kamlesh-dev](https://www.linkedin.com/in/kamlesh-dev/)
+- GitHub: [pkamleshkumar12](https://github.com/pkamleshkumar12)
+
+I'm passionate about technology and always eager to collaborate with like-minded professionals. Feel free to connect with me!
