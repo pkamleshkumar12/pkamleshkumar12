@@ -4,8 +4,8 @@ I'm a seasoned software professional with expertise in Java, Microservices, and 
 
 ## 🔧 My Tech Stack
 
-- Java
-- Spring Framework
+- Java, Spring Framework
+- ReactJS, NextJS
 - Microservices
 - API Design
 - Systems Integration
